@@ -1,0 +1,17 @@
+.git
+.omx
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.tar.gz
+data
+artifacts
+logs
+output
+docs
+.codex
+assets
+.DS_Store
+.pytest_cache
+.ruff_cache
